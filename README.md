@@ -1,5 +1,7 @@
-### Research Track I - Assignment 1
-### Pablo Moreno Moreno - S5646698
+Research Track I - Assignment 1  
+Pablo Moreno Moreno - S5646698 
+----------------------
+
 
 This repository contains the Python script developed for the assignment, together with the Python Robotics Simulator.
 
