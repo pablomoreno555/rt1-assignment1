@@ -66,4 +66,4 @@ While we are inside the robot control loop:
 		
 ```
 
-As a possible improvement, we could implement a more intelligent way for the robot to choose how to make the pairs beteween the tokens. Right now, the robot just matches the silver token that it grabs with the first golden token that it detects, regardless of how far away it is from the current position of the robot. In order to save time and energy, it may be a good idea for the robot to analize all the unpaired golden tokens, rotating 360º around itself, and choose the closest one.
+As a possible improvement, we could implement a more intelligent way for the robot to choose how to make the pairs beteween the tokens. Right now, the robot just matches the silver token that it grabs with the first golden token that it detects, regardless of how far away it is from the current position of the robot. In order to save time and energy, it may be a good idea for the robot to analize first all the unpaired golden tokens, rotating 360º around itself, and then choose the closest one.
